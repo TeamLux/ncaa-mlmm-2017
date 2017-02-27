@@ -18,4 +18,4 @@ Regular Season | Tourney
 ![](./plots/season-score-difference-plot.png) | ![](./plots/tourney-score-difference-plot.png)
 ![](./plots/season-field-shot-ratio-plot.png) | ![](./plots/tourney-field-shot-ratio-plot.png)
 ![](./plots/season-three-pointer-ratio-plot.png) | ![](./plots/tourney-three-pointer-ratio-plot.png)
-![](./plots/season-free-shot-ratio-plot.png) | ![](./plots/tourney-field-free-ratio-plot.png)
+![](./plots/season-free-shot-ratio-plot.png) | ![](./plots/tourney-field-shot-ratio-plot.png)
