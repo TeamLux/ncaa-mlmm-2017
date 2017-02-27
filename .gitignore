@@ -1,0 +1,35 @@
+# Dot files
+.*
+
+# Git files
+!/.gitignore
+!/.gitmodules
+
+# Logs files
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Config files
+config/*
+!config/__init__.py
+!config/config.py
+
+# Env files
+env/*
+!/env/.env.default
+
+# Py.cov
+!/.coveragerc
