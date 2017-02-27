@@ -14,5 +14,5 @@ $ pip install -r requirements.txt
 
 Regular Season | Tourney
 :-------------------------:|:-------------------------:
-![](./plots/season-score-by-location.png) | ![](./plots/tourney-score-by-location.png)
-![](./plots/season-score-difference.png) | ![](./plots/tourney-score-difference.png)
+![](./plots/season-score-by-location-plot.png) | ![](./plots/tourney-score-by-location-plot.png)
+![](./plots/season-score-difference-plot.png) | ![](./plots/tourney-score-difference-plot.png)
