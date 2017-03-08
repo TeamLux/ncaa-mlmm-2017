@@ -27,4 +27,4 @@ def evaluate(filename_to_evaluate):
 
 
 if __name__ == '__main__':
-    pass
+    print(evaluate('./data/tmp.csv'))

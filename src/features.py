@@ -56,7 +56,8 @@ class Features(object):
 
     def get_features(self):
 
-        a,b,c,d,e,f,g,h,i = ['Nan']*9
+        # a,b,c,d,e,f,g,h,i = ['Nan']*9
+        a,b,c,d,e,f,g,h,i = [0]*9
         if self.n_match_H > 0:
             a = self.n_win_H/self.n_match_H
             b = self.n_score_H/self.n_period_H
